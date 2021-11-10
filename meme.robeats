@@ -78,7 +78,7 @@ function library:Window(TitleWhite)
 	Cool.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 	Cool.BackgroundTransparency = 1.000
 	Cool.Position = UDim2.new(0.065, 0, 0.025, 0)
-	Cool.Size = UDim2.new(0, 163, 0, 117)
+	Cool.Size = UDim2.new(0, 55, 0, 55)
 	Cool.ZIndex = 2
 	Cool.Image = "rbxassetid://7930114003"
 	BloxburgCool.Name = "BloxburgCool"
